@@ -30,6 +30,6 @@ textarea {
   width: 210px;
   height: 38px;
   font-size: 1.2em;
-    @include border-radius(10px);
-  @include box-shadow(black 2px 2px 5px);
+    // @include border-radius(10px);
+  // @include box-shadow(black 2px 2px 5px);
 }
